@@ -1,0 +1,1 @@
+page.includeJS.file199 = fileadmin/js/mobile_detection.js
